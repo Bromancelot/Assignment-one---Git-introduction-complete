@@ -5,3 +5,5 @@ An assignment to get students up and running with git
 git add readme.md
 git commit -m "Assignment one - Git introduction complete"
 git push origin master
+
+# I have simply added my name, Cedric Heatwole-Carroll, to the readme. WOOT!
